@@ -1,2 +1,3 @@
-# 00games_strapi
-strapi CMS for videogame database
+# Strapi application
+
+A quick description of your strapi application
